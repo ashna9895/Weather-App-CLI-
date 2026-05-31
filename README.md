@@ -2,9 +2,9 @@
 
 ## 📌 Intern Details
 
-* **Intern ID:** YOUR_INTERN_ID
+* **Intern ID:** CITS2134
 * **Full Name:** Ashna Anand
-* **Duration:** YOUR_NUMBER_OF_WEEKS Weeks
+* **Duration:** 4 Weeks
 * **Project Name:** Weather App (CLI)
 * **Project Scope:** Develop a command-line weather application using Python and OpenWeather API to fetch and display real-time weather information for any city worldwide.
 
