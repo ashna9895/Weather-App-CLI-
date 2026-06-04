@@ -53,17 +53,6 @@ The application displays important weather details such as temperature, feels-li
 
 ---
 
-## 📂 Project Structure
-
-```text
-Weather-App/
-│
-├── main.py
-└── README.md
-```
-
----
-
 ## 🚀 How to Run
 
 ### 1. Install Required Package
@@ -98,28 +87,30 @@ python main.py
 
 Add your application screenshot below:
 
-
-![Weather App](Screenshot1.png)
+![Weather App](Screenshot.png)
 ```
 
-### 📋 Sample Output
+---
 
 ```
+## 📋 Sample Output
+
+```text
 🌦 WEATHER APP
-==============================
 
-Enter city name: Hyderabad
+Enter city name: London
 
 ===== WEATHER REPORT =====
-🌍 City: Hyderabad
-🏳️ Country: IN
-🌡 Temperature: 31.23°C
-🤗 Feels Like: 32.04°C
-☁️ Condition: Haze
+
+🌍 City: London
+🏳️ Country: GB
+🌡 Temperature: 22.45°C
+🤗 Feels Like: 21.93°C
+☁️ Condition: Overcast Clouds
 💧 Humidity: 45%
-🌬 Wind Speed: 2.06 m/s
-🌅 Sunrise: 05:41:15
-🌇 Sunset: 18:46:33
+🌬 Wind Speed: 6.17 m/s
+🌅 Sunrise: 04:48:15
+🌇 Sunset: 21:07:44
 ```
 
 ---
