@@ -79,8 +79,7 @@ with your actual API key.
 
 ```bash
 python main.py
-```
-```
+
 
 ```
 ## 📋 Sample Output
