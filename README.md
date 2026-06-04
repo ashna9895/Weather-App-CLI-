@@ -99,7 +99,7 @@ python main.py
 Add your application screenshot below:
 
 
-![Weather App](screenshot1.png)
+![Weather App](Screenshot1.png)
 ```
 
 ---
