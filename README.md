@@ -86,8 +86,6 @@ python main.py
 
 ```
 
----
-
 ```
 ## 📋 Sample Output
 
