@@ -102,9 +102,7 @@ Add your application screenshot below:
 ![Weather App](Screenshot1.png)
 ```
 
----
-
-## 📋 Sample Output
+### 📋 Sample Output
 
 ```text
 🌦 WEATHER APP
