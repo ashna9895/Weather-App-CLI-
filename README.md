@@ -83,11 +83,7 @@ python main.py
 
 ---
 
-## 📸 Screenshot
 
-Add your application screenshot below:
-
-![Weather App](Screenshot.png)
 ```
 
 ---
