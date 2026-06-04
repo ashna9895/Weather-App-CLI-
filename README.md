@@ -104,7 +104,7 @@ Add your application screenshot below:
 
 ### 📋 Sample Output
 
-```text
+```
 🌦 WEATHER APP
 ==============================
 
